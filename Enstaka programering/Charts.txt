@@ -1,0 +1,3 @@
+https://reactjsexample.com/simple-donut-chart-with-react-js/
+https://reactjsexample.com/simple-and-elegant-spark-lines/
+https://reactjsexample.com/a-react-environment-charts/

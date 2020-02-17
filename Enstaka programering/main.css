@@ -1,0 +1,5 @@
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ABB_logo.svg/1200px-ABB_logo.svg.png");
+    z-index: -2;
+    background-size: cover;
+}

@@ -1,0 +1,49 @@
+save 1250 to num1
+save 3 to num2
+save 8 to num3
+save 1 to num4
+
+product = num1 * num2 * num3
+produt1 = num1 * num4 * num2
+
+kvot = num1 / 2
+product2 = kvot * num2
+
+sum = product + product1 + product2
+
+print "Eleven får", sum "kr"
+
+save 13,95 to num1
+save 30 to num2
+save 347 to num3
+
+kvot = num3 / 30
+check to se if kvot == heltal
+    if it is, do nothing
+    if it is not, avrundat kvot nedåt
+product = kvot * 30
+differans = num3 - product
+kvot1 = differans / num1
+check to se if kvot1 == heltal
+    if it is, do nothing
+    if it is not, avrundat kvot nedåt
+sum = kvot + kvot1
+
+print "Han kan köpa", sum, "burkar"
+
+save 12500 to prisSAS
+save 3423 to prisRyanaire
+save 9500 to prisGröntflyg
+save 8560 to prisFlygFort
+
+save 4 to starSAS
+save 1 to starRyanaire
+save 3 to starGröntflyg
+save 3 to starFlygFort
+
+save 12 to tidSAS
+save 14 to tidRyanaire
+save 12 to tidGröntflyg
+save 8 to tidFlygFort
+
+check to se if prisSAS >
